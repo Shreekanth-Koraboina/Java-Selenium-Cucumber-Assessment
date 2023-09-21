@@ -23,8 +23,6 @@ public class SortedTheProducts  {
 	@When("User open URL {string}")
 	public void user_open_url(String url) {
 		driver.get(url);
-		
-	    
 	}
 
 	@When("navigate to HANDBAGS Category")

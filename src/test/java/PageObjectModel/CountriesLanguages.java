@@ -42,7 +42,5 @@ public WebDriver ldriver;
 			pl.put(Name, Lang);
 	}
 		pl.forEach((n,l)->System.out.println(n+" "+l));
-	
-	
 	}
 }

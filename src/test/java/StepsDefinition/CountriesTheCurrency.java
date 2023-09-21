@@ -10,5 +10,4 @@ public class CountriesTheCurrency {
 	public void validate_currency() {
 	    cc.getCurrencies();
 	}
-
 }

@@ -36,8 +36,6 @@ public WebDriver ldriver;
 			String cur = ldriver.findElement(By.xpath("//span[@class='countrySelected']")).getText();
 			System.out.println(cur);
 	   }
-		
-	
 	}
 
 }
